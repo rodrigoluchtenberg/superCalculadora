@@ -1,0 +1,5 @@
+C:\Users\rodrigo.luchtenberg\Desktop\rodrigo\C#\superCalculadora\superCalculadora\obj\Debug\net6.0\superCalculadora.csproj.AssemblyReference.cache
+C:\Users\rodrigo.luchtenberg\Desktop\rodrigo\C#\superCalculadora\superCalculadora\obj\Debug\net6.0\superCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodrigo.luchtenberg\Desktop\rodrigo\C#\superCalculadora\superCalculadora\obj\Debug\net6.0\superCalculadora.AssemblyInfoInputs.cache
+C:\Users\rodrigo.luchtenberg\Desktop\rodrigo\C#\superCalculadora\superCalculadora\obj\Debug\net6.0\superCalculadora.AssemblyInfo.cs
+C:\Users\rodrigo.luchtenberg\Desktop\rodrigo\C#\superCalculadora\superCalculadora\obj\Debug\net6.0\superCalculadora.csproj.CoreCompileInputs.cache
