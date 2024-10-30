@@ -3,3 +3,13 @@ C:\Users\rodrigo.luchtenberg\Desktop\rodrigo\C#\superCalculadora\superCalculador
 C:\Users\rodrigo.luchtenberg\Desktop\rodrigo\C#\superCalculadora\superCalculadora\obj\Debug\net6.0\superCalculadora.AssemblyInfoInputs.cache
 C:\Users\rodrigo.luchtenberg\Desktop\rodrigo\C#\superCalculadora\superCalculadora\obj\Debug\net6.0\superCalculadora.AssemblyInfo.cs
 C:\Users\rodrigo.luchtenberg\Desktop\rodrigo\C#\superCalculadora\superCalculadora\obj\Debug\net6.0\superCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\rodrigo.luchtenberg\Desktop\rodrigo\C#\superCalculadora\superCalculadora\bin\Debug\net6.0\superCalculadora.exe
+C:\Users\rodrigo.luchtenberg\Desktop\rodrigo\C#\superCalculadora\superCalculadora\bin\Debug\net6.0\superCalculadora.deps.json
+C:\Users\rodrigo.luchtenberg\Desktop\rodrigo\C#\superCalculadora\superCalculadora\bin\Debug\net6.0\superCalculadora.runtimeconfig.json
+C:\Users\rodrigo.luchtenberg\Desktop\rodrigo\C#\superCalculadora\superCalculadora\bin\Debug\net6.0\superCalculadora.dll
+C:\Users\rodrigo.luchtenberg\Desktop\rodrigo\C#\superCalculadora\superCalculadora\bin\Debug\net6.0\superCalculadora.pdb
+C:\Users\rodrigo.luchtenberg\Desktop\rodrigo\C#\superCalculadora\superCalculadora\obj\Debug\net6.0\superCalculadora.dll
+C:\Users\rodrigo.luchtenberg\Desktop\rodrigo\C#\superCalculadora\superCalculadora\obj\Debug\net6.0\refint\superCalculadora.dll
+C:\Users\rodrigo.luchtenberg\Desktop\rodrigo\C#\superCalculadora\superCalculadora\obj\Debug\net6.0\superCalculadora.pdb
+C:\Users\rodrigo.luchtenberg\Desktop\rodrigo\C#\superCalculadora\superCalculadora\obj\Debug\net6.0\superCalculadora.genruntimeconfig.cache
+C:\Users\rodrigo.luchtenberg\Desktop\rodrigo\C#\superCalculadora\superCalculadora\obj\Debug\net6.0\ref\superCalculadora.dll
